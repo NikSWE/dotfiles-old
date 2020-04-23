@@ -1,0 +1,4 @@
+^/LICENSE.*
+^/README.*
+\.git
+\.gitignore
