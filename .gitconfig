@@ -1,0 +1,7 @@
+[user]
+	name = muj-programmer
+	email = nick.muj.programmer@gmail.com
+[credential]
+	helper = store
+[core]
+	editor = vim
