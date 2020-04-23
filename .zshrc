@@ -19,9 +19,10 @@ antigen theme romkatv/powerlevel10k
 
 antigen apply
 
+autoload -Uz compinit && compinit
+autoload -U +X bashcompinit && bashcompinit
+
 source $HOME/.paths.zsh
 source $HOME/.exports.zsh
 source $HOME/.aliases.zsh
-
-autoload -U +X bashcompinit && bashcompinit
 source $HOME/.completions.zsh
