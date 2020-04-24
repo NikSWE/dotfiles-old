@@ -29,3 +29,6 @@ source $HOME/.completions.zsh
 
 # NVM
 source /usr/share/nvm/init-nvm.sh
+
+# Powerlevel10k
+[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
