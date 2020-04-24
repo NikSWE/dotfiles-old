@@ -26,3 +26,6 @@ source $HOME/.paths.zsh
 source $HOME/.exports.zsh
 source $HOME/.aliases.zsh
 source $HOME/.completions.zsh
+
+# NVM
+source /usr/share/nvm/init-nvm.sh
