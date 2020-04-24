@@ -8,3 +8,6 @@ export DISABLE_AUTO_TITLE="true"
 
 # language environment
 export LANG=en_US.UTF-8
+
+# android sdk
+export ANDROID_HOME="/opt/android-sdk"
