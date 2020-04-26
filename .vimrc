@@ -1,5 +1,9 @@
 set nocompatible
 set number
+syntax on
+set tabstop=4
+set shiftwidth=4
+set expandtab
 filetype off
 
 set rtp+=~/.vim/bundle/Vundle.vim
